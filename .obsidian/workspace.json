@@ -15,6 +15,7 @@
               "state": {
                 "file": "Gerência de Configuração/010 - DevOps.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -106,8 +107,8 @@
   },
   "active": "51d0b90661a057c7",
   "lastOpenFiles": [
-    "README.md",
     "Gerência de Configuração/010 - DevOps.md",
+    "README.md",
     "010.md",
     "\"./010.md",
     "\"."
