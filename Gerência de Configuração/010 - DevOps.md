@@ -1,4 +1,4 @@
-# DevOps[^1]
+# DevOps
 > rascunho
 
 "Desenvolvimento" é a área onde se tem origem os processos relacionados á desenhos e códigos, enquanto "Operações" são processos de onde vêm as tarefas de lançamento, monitoramento, entre outros... A união das áreas de Desenvolvimento e Operações é denominada de DevOps, a qual tem o objetivo de aumentar a velocidade de lançamento de produto, melhorar o feedback <!-- precisa ser detalhado. -->, e dar importância ao aprendizado na melhora dos processos da geração do produto, a partir da criação de automações, monitoramento ou gerenciamento do monitoramento de processos e controle de versão, além de outras responsabilidades já garantidas por times de desenvolvimento ou operações.
