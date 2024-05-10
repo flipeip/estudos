@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6e0ff5ae9d8fd5ff",
+        "id": "bc92533e81dbae4f",
         "type": "tabs",
         "children": [
           {
-            "id": "f4fbd6e77371d11b",
+            "id": "51d0b90661a057c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "21effdad60b83314",
@@ -104,10 +103,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f4fbd6e77371d11b",
+  "active": "51d0b90661a057c7",
   "lastOpenFiles": [
-    "Gerência de Configuração/010 - DevOps.md",
     "README.md",
+    "Gerência de Configuração/010 - DevOps.md",
     "010.md",
     "\"./010.md",
     "\"."
