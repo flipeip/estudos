@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Gerência de Configuração/010 - DevOps.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "21effdad60b83314",
@@ -77,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Gerência de Configuração/010 - DevOps.md"
               }
             }
           },
